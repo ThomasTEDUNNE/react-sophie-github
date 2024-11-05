@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-sophie-github/static/css/main.d3c9fea2.css",
-    "main.js": "/react-sophie-github/static/js/main.913f1f9a.js",
+    "main.js": "/react-sophie-github/static/js/main.eb2c1234.js",
     "index.html": "/react-sophie-github/index.html",
     "main.d3c9fea2.css.map": "/react-sophie-github/static/css/main.d3c9fea2.css.map",
-    "main.913f1f9a.js.map": "/react-sophie-github/static/js/main.913f1f9a.js.map"
+    "main.eb2c1234.js.map": "/react-sophie-github/static/js/main.eb2c1234.js.map"
   },
   "entrypoints": [
     "static/css/main.d3c9fea2.css",
-    "static/js/main.913f1f9a.js"
+    "static/js/main.eb2c1234.js"
   ]
 }
